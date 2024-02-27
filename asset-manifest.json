@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ccbp-timeline/static/css/main.6179ac41.css",
+    "main.js": "/ccbp-timeline/static/js/main.f5850147.js",
+    "static/js/453.845134fc.chunk.js": "/ccbp-timeline/static/js/453.845134fc.chunk.js",
+    "index.html": "/ccbp-timeline/index.html",
+    "main.6179ac41.css.map": "/ccbp-timeline/static/css/main.6179ac41.css.map",
+    "main.f5850147.js.map": "/ccbp-timeline/static/js/main.f5850147.js.map",
+    "453.845134fc.chunk.js.map": "/ccbp-timeline/static/js/453.845134fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6179ac41.css",
+    "static/js/main.f5850147.js"
+  ]
+}
